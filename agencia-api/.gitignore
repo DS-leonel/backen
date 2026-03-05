@@ -1,0 +1,19 @@
+
+.env
+.env.*
+
+
+
+node_modules/
+
+# Archivos compilados (NestJS / TypeScript)
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
